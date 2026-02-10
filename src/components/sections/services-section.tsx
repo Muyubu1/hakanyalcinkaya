@@ -60,8 +60,8 @@ const defaultServices: Service[] = [
     {
         id: 8,
         name: 'Lazer Epilasyon',
-        imageUrl: '/foto/erkekYüzLazer.jpg',
-    },
+        imageUrl: '/foto/erkekYuzLazer.jpg',
+    }
 ]
 
 export function ServicesSection({
