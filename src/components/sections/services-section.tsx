@@ -30,7 +30,7 @@ const defaultServices: Service[] = [
     {
         id: 2,
         name: 'Sakal Tasarımı',
-        imageUrl: '/foto/sakalTasarımı.jpg',
+        imageUrl: '/foto/sakalTasarimi.jpg',
     },
     {
         id: 3,
@@ -40,12 +40,12 @@ const defaultServices: Service[] = [
     {
         id: 4,
         name: 'Cilt Bakımı',
-        imageUrl: '/foto/ciltBakım1.jpg',
+        imageUrl: '/foto/ciltBakim1.jpg',
     },
     {
         id: 5,
         name: 'Kaş Tasarımı',
-        imageUrl: '/foto/kasTasarımı23.png',
+        imageUrl: '/foto/kasTasarimi23.png',
     },
     {
         id: 6,
