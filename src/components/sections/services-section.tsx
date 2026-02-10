@@ -57,11 +57,11 @@ const defaultServices: Service[] = [
         name: 'Renklendirme',
         imageUrl: '/foto/erkekSacBoyama.jpg',
     },
-    {
-        id: 8,
-        name: 'Lazer Epilasyon',
-        imageUrl: '/foto/erkekYuzLazer.jpg',
-    }
+    // {
+    //     id: 8,
+    //     name: 'Lazer Epilasyon',
+    //     imageUrl: '/foto/erkekYuzLazer.jpg',
+    // }
 ]
 
 export function ServicesSection({
